@@ -15,3 +15,7 @@ Motivated and skilled individual seeking a position in front end mobile developm
 1. Item 1 [Google](http://www.google.com)
 1. Item 2
 1. Item 3
+
+## Conflicts
+
+This section represents code on the server that isn't on the local repository.
