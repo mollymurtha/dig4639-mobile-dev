@@ -8,7 +8,7 @@ class Adder{
     }
 
     render() {
-        return `<div><p>The sum of 5 and 10 is 15</p></div>`;
+        return {The sum of ${this.props.a} and ${this.props.b} is ${sum()};
     }
 
     module.exports = Adder;
