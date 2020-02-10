@@ -1,4 +1,4 @@
-const Adder = require("./Adder.js");
+const Adder = require("./Adder.js").default;
 
 let adder = new Adder(
     {
