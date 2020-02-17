@@ -1,6 +1,5 @@
 {
-  "name": "w6a",
-  "homepage": "http://mollymurtha.github.io/dig4639-mobile-dev",
+  "name": "hello_world",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,8 +30,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.2.0"
   }
 }
