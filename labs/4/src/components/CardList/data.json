@@ -1,0 +1,16 @@
+{
+    "cards": [
+      {
+          "title": "Penelope",
+          "content": "Loves water."
+      },
+      {
+          "title": "Teddie",
+          "content": "Barks at everything."
+      },
+      {
+          "title": "Nemo",
+          "content": "Gallops around."
+      }
+    ]
+  }
