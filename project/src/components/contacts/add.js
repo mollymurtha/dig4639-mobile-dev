@@ -26,7 +26,7 @@ class AddContact extends React.Component{
             })
         }
         event.preventDefault();
-        fetch("http://plato.mrl.ai:3000/contacts/add", newHeaders)
+        fetch("http://plato.mrl.ai:8080/contacts/add", newHeaders)
         .then((res) => res.json())
         .then((data) => {
             this.setState({value: this.nameRef.current.value})
