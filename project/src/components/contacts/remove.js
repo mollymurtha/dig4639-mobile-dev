@@ -27,7 +27,7 @@ class RemoveContact extends React.Component{
     }
 
     event.preventDefault();
-        fetch("http://plato.mrl.ai:8080/contacts/remove", newHeaders)
+        fetch("http://plato.mrl.ai:3000/contacts/remove", newHeaders)
         .then((res) => res.json())
         .then((data) => {
             this.setState({value: this.remRef.current.value})
